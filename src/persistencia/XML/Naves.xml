@@ -1,0 +1,23 @@
+<list>
+  <empresa.Nave>
+    <codigoEmpresa>1</codigoEmpresa>
+    <nums/>
+    <nums2/>
+    <nombre>Nave 1</nombre>
+    <codigoNave>NAV1</codigoNave>
+  </empresa.Nave>
+  <empresa.Nave>
+    <codigoEmpresa>2</codigoEmpresa>
+    <nums/>
+    <nums2/>
+    <nombre>Nave 2</nombre>
+    <codigoNave>NAV2</codigoNave>
+  </empresa.Nave>
+  <empresa.Nave>
+    <codigoEmpresa>3</codigoEmpresa>
+    <nums/>
+    <nums2/>
+    <nombre>Nave 3</nombre>
+    <codigoNave>NAV3</codigoNave>
+  </empresa.Nave>
+</list>

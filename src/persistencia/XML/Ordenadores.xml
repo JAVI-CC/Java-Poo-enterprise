@@ -1,0 +1,34 @@
+<list>
+  <empresa.Ordenador>
+    <codigo>ORD1</codigo>
+    <descripcion>Portatil</descripcion>
+    <marca>HP</marca>
+    <memoria>250GB</memoria>
+    <codigoEmpresa>1</codigoEmpresa>
+    <velocidad>455MHz</velocidad>
+  </empresa.Ordenador>
+  <empresa.Ordenador>
+    <codigo>ORD2</codigo>
+    <descripcion>Sobremesa</descripcion>
+    <marca>ASUS</marca>
+    <memoria>1TB</memoria>
+    <codigoEmpresa>2</codigoEmpresa>
+    <velocidad>2GHz</velocidad>
+  </empresa.Ordenador>
+  <empresa.Ordenador>
+    <codigo>ORD3</codigo>
+    <descripcion>Portatil</descripcion>
+    <marca>Lenovo</marca>
+    <memoria>500GB</memoria>
+    <codigoEmpresa>3</codigoEmpresa>
+    <velocidad>2.3GHz</velocidad>
+  </empresa.Ordenador>
+  <empresa.Ordenador>
+    <codigo>ORD445</codigo>
+    <descripcion>Portatil averiado</descripcion>
+    <marca>HP</marca>
+    <memoria>128Gb</memoria>
+    <codigoEmpresa>2</codigoEmpresa>
+    <velocidad>443MHz</velocidad>
+  </empresa.Ordenador>
+</list>

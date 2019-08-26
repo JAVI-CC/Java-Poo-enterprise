@@ -1,0 +1,14 @@
+<list>
+  <empresa.Empresa>
+    <codigoEmpresa>1</codigoEmpresa>
+    <direccion>calle falsa 123</direccion>
+  </empresa.Empresa>
+  <empresa.Empresa>
+    <codigoEmpresa>2</codigoEmpresa>
+    <direccion>calle falsa 456</direccion>
+  </empresa.Empresa>
+  <empresa.Empresa>
+    <codigoEmpresa>3</codigoEmpresa>
+    <direccion>calle falsa 789</direccion>
+  </empresa.Empresa>
+</list>

@@ -1,0 +1,26 @@
+<list>
+  <empresa.Mueble>
+    <codigoEmpresa>1</codigoEmpresa>
+    <codigo>MUE1</codigo>
+    <descripcion>Silla</descripcion>
+    <alto>10.0</alto>
+    <ancho>25.0</ancho>
+    <fondo>5.0</fondo>
+  </empresa.Mueble>
+  <empresa.Mueble>
+    <codigoEmpresa>2</codigoEmpresa>
+    <codigo>MUE2</codigo>
+    <descripcion>Armario</descripcion>
+    <alto>55.0</alto>
+    <ancho>15.0</ancho>
+    <fondo>30.0</fondo>
+  </empresa.Mueble>
+  <empresa.Mueble>
+    <codigoEmpresa>3</codigoEmpresa>
+    <codigo>MUE3</codigo>
+    <descripcion>Mesa</descripcion>
+    <alto>25.0</alto>
+    <ancho>10.0</ancho>
+    <fondo>5.0</fondo>
+  </empresa.Mueble>
+</list>

@@ -1,0 +1,34 @@
+<list>
+  <empresa.Impresora>
+    <codigo>IMP1</codigo>
+    <descripcion>Impresora grande</descripcion>
+    <marca>Canon</marca>
+    <memoria>2GB</memoria>
+    <codigoEmpresa>1</codigoEmpresa>
+    <tipo>Laser</tipo>
+  </empresa.Impresora>
+  <empresa.Impresora>
+    <codigo>IMP2</codigo>
+    <descripcion>Impresora mediana</descripcion>
+    <marca>HP</marca>
+    <memoria>1GB</memoria>
+    <codigoEmpresa>2</codigoEmpresa>
+    <tipo>Tinta</tipo>
+  </empresa.Impresora>
+  <empresa.Impresora>
+    <codigo>IMP3</codigo>
+    <descripcion>Impresora enana</descripcion>
+    <marca>Asus</marca>
+    <memoria>4GB</memoria>
+    <codigoEmpresa>3</codigoEmpresa>
+    <tipo>3D</tipo>
+  </empresa.Impresora>
+  <empresa.Impresora>
+    <codigo>IMP333</codigo>
+    <descripcion>Impresora rota</descripcion>
+    <marca>CANON</marca>
+    <memoria>128Kb</memoria>
+    <codigoEmpresa>2</codigoEmpresa>
+    <tipo>Laser</tipo>
+  </empresa.Impresora>
+</list>
